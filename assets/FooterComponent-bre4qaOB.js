@@ -1,0 +1,1 @@
+import{f as o,o as r,c as s,a as e}from"./index-BrADg0XS.js";const a={},n={class:"z-10 text-primary border-t-1 border-t-primary bg-white"};function c(l,t,p,d,f,i){return r(),s("footer",n,t[0]||(t[0]=[e("div",{class:"p-8 flex justify-between"},[e("p",{class:"text-3xl font-bold"},"CV"),e("p",null,"All rights reserved.")],-1)]))}const m=o(a,[["render",c]]);export{m as default};
