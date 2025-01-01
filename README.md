@@ -2,7 +2,7 @@
 
 A modern and responsive portfolio built with **Vue 3** and **Vite**. This project showcases components like skills, services, projects, and a contact section, all styled for a sleek user experience. Deployed on **GitHub Pages**.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600?text=Portfolio+Preview)
+![Portfolio Preview](https://i.imgur.com/Ar6vNFc.png)
 
 ## 🚀 Live Project
 
@@ -99,15 +99,15 @@ This project is automatically deployed to GitHub Pages using a pipeline. To depl
 
 ### Home Section
 
-![Home Section](https://via.placeholder.com/800x400?text=Home+Section)
+![Home Section](https://i.imgur.com/6mJyiVH.png)
 
 ### Skills Section
 
-![Skills Section](https://via.placeholder.com/800x400?text=Skills+Section)
+![Skills Section](https://i.imgur.com/rUO4Z4Y.png)
 
 ### Projects Section
 
-![Projects Section](https://via.placeholder.com/800x400?text=Projects+Section)
+![Projects Section](https://i.imgur.com/A4SvIR8.png)
 
 ---
 
@@ -129,12 +129,6 @@ Contributions are welcome! To contribute:
    git push origin feature-name
    ```
 5. Create a pull request.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
