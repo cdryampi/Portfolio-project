@@ -92,14 +92,14 @@ const Projects = ref([
     imagen: "./gaudeix.png",
   },
   {
-    nombre: "tienda-django",
+    nombre: "curriculum-frontend",
     descripcion:
-      "Proyecto en desarrollo que implementa un sistema de tienda en línea utilizando Django. Incluye funcionalidad para productos, carrito de compras y opciones de personalización, aunque aún no está finalizado.",
+      "Un frontend simple para Imprimir los datos del backend. Permite imprimir los datos del backend y presentar información profesional de manera estructurada.",
     estado: "Incompleto",
-    url: "https://github.com/cdryampi/tienda",
-    github: "https://github.com/cdryampi/tienda",
-    tecnologias: ["Django", "Bootstrap", "PostgreSQL", "JavaScript", "CSS"],
-    imagen: "./gaudeix.png",
+    url: "https://github.com/cdryampi/curriculum-frontend",
+    github: "https://github.com/cdryampi/curriculum-frontend",
+    tecnologias: ["React", "Javascript", "CSS", "Tailwind", "Axios"],
+    imagen: "./front.jpeg",
   },
   {
     nombre: "curriculum-backend",
@@ -108,8 +108,8 @@ const Projects = ref([
     estado: "Incompleto",
     url: "https://github.com/cdryampi/curriculum-backend",
     github: "https://github.com/cdryampi/curriculum-backend",
-    tecnologias: ["Django", "SQLite", "Bootstrap"],
-    imagen: "./gaudeix.png",
+    tecnologias: ["Django", "SQLite", "PSQL", "Trnaslations", "Session"],
+    imagen: "./back_cv.jpeg",
   },
   {
     nombre: "LaSagradaFamilia",
@@ -119,17 +119,17 @@ const Projects = ref([
     url: "https://github.com/cdryampi/LaSagradaFamilia",
     github: "https://github.com/cdryampi/LaSagradaFamilia",
     tecnologias: ["Kotlin", "Jetpack Compose", "Android Studio"],
-    imagen: "./gaudeix.png",
+    imagen: "./android.png",
   },
   {
     nombre: "web-empresa-django-2",
     descripcion:
       "Un sitio web desarrollado para una cafetería como parte de un curso de Django. Aunque está descontinuado, fue un ejercicio práctico para aprender sobre desarrollo web con Django.",
     estado: "Descontinuado",
-    url: "https://github.com/cdryampi/web-empresa-django-2",
+    url: "https://cdryampi.github.io/web-empresa-django-2/index.html",
     github: "https://github.com/cdryampi/web-empresa-django-2",
     tecnologias: ["Django", "SQLite", "Bootstrap"],
-    imagen: "./gaudeix.png",
+    imagen: "./cafe.png",
   },
   {
     nombre: "roadmap-retos-programacion",
